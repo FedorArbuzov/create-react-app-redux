@@ -5,6 +5,8 @@
 
 ## Installation
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/FedorArbuzov/create-react-app-redux.svg)](https://greenkeeper.io/)
+
 ```bash
 git clone https://github.com/notrab/create-react-app-redux.git
 cd create-react-app-redux
